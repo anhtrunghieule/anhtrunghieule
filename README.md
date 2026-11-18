@@ -8,11 +8,11 @@ Hi, I'm **Hiếu** (you can also call me **Oliver**). I'm a first-year **Softwar
 
 I'm working toward a career in both **Software Engineering** and **AI Engineering**. Right now I'm focused on **data structures & algorithms**, **Java**, and **Finnish**, and **Machine Learning** comes next. I learn best by building things, so most of what I study ends up as a small project.
 
-Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep and helping colleagues publish content. I speak **Vietnamese** (native), **English** (C1, IELTS 7.5), and **Finnish** (beginner, aiming for C1).
+<!-- Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep and helping colleagues publish content. I speak **Vietnamese** (native), **English** (C1, IELTS 7.5), and **Finnish** (beginner, aiming for C1). -->
 
 ---
 
-## Featured Projects
+<!-- ## Featured Projects
 
 <table>
   <tr>
@@ -60,7 +60,7 @@ Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep 
   </tr>
 </table>
 
----
+--- -->
 
 ## GitHub Analytics
 
