@@ -6,7 +6,7 @@
 
 Hi, I'm **Hiếu** (you can also call me **Oliver**). I'm a first-year **Software Engineering** student at **TAMK** (Tampere University of Applied Sciences) in **Tampere, Finland**, originally from **Vietnam**.
 
-I'm working toward a career in both **Software Engineering** and **AI Engineering**. Right now I'm focused on **data structures & algorithms**, **Java**, and **Finnish**, and **Machine Learning** comes next. I learn best by building things, so most of what I study ends up as a small project.
+I'm working toward a career in both **Software Engineering** and **AI Engineering**. Right now I'm focused on **data structures & algorithms**, **Java**, and **Machine Learning** comes next. I learn best by building things, so most of what I study ends up as a small project.
 
 <!-- Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep and helping colleagues publish content. I speak **Vietnamese** (native), **English** (C1, IELTS 7.5), and **Finnish** (beginner, aiming for C1). -->
 
