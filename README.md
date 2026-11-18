@@ -115,6 +115,6 @@ Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep 
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="quote.svg" width="100%" alt="Let your result be your loudest voice"/>
-</div>
+</div> -->
