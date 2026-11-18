@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:06B6D4&height=200&section=header&text=L%C3%AA%20Anh%20Trung%20Hi%E1%BA%BFu&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20TAMK%2C%20Finland&descSize=22&descAlignY=58&animation=twinkling" width="100%" alt="Lê Anh Trung Hiếu — Software Engineering Student, TAMK Finland"/>
+  <img src="banner.svg" width="100%" alt="Anh Trung Hieu Le — Software Engineering student at TAMK, Finland"/>
 </div>
 
 ## About Me
@@ -115,6 +115,3 @@ Alongside my studies, I work part-time at **HSIA Việt Nam** on website upkeep 
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:06B6D4&height=100&section=footer" width="100%" alt=""/>
-</div>
