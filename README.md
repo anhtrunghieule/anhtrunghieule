@@ -114,6 +114,8 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
 </div>
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anhtrunghieule&theme=react-dark&area=true&hide_border=true)
 <!-- <div align="center">
   <img src="quote.svg" width="100%" alt="Let your result be your loudest voice"/>
 </div> -->
