@@ -104,18 +104,24 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
   </tr>
 </table>
 
+
 ## GitHub Analytics
 
 <div align="center">
-  <p align="center">
-    <img
-      src="./profile-3d-contrib/profile-blue-purple.svg"
-      alt="GitHub 3D Contributions"
-      width="100%"
-    />
-  </p>
-  <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=anhtrunghieule&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak"/>
+
+  <img
+    src="./profile-3d-contrib/profile-blue-purple.svg"
+    width="100%"
+    alt="GitHub 3D Contributions"
+  />
+
+  <img
+    src="./profile-3d-contrib/streak.svg"
+    alt="GitHub Streak"
+  />
+
 </div>
+
 
 ---
 
