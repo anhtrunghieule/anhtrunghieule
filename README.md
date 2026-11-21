@@ -106,16 +106,6 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
 
 ## GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=anhtrunghieule&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=777777" alt="GitHub stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anhtrunghieule&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=777777" alt="Top languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=anhtrunghieule&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak"/>
-</div>
-<div align="center">
-
-<!-- ![3D Contributions](./profile-3d-contrib/profile-night-green.svg) -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=anhtrunghieule&theme=dark&hide_border=true) -->
 <p align="center">
   <img
     src="./profile-3d-contrib/profile-blue-purple.svg"
@@ -127,9 +117,6 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
 </div>
 
 ---
-<!-- <div align="center">
-  <img src="quote.svg" width="100%" alt="Let your result be your loudest voice"/>
-</div> -->
 
 
 
