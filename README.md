@@ -119,3 +119,16 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
 <!-- <div align="center">
   <img src="quote.svg" width="100%" alt="Let your result be your loudest voice"/>
 </div> -->
+
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anhtrunghieule&theme=dark&hide_border=true)
+
+</div>
+
+
