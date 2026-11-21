@@ -112,23 +112,25 @@ I'm working toward a career in both **Software Engineering** and **AI Engineerin
   <br>
   <img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=anhtrunghieule&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak"/>
 </div>
+<div align="center">
+
+<!-- ![3D Contributions](./profile-3d-contrib/profile-night-green.svg) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=anhtrunghieule&theme=dark&hide_border=true) -->
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-blue-purple.svg"
+    alt="GitHub 3D Contributions"
+    width="100%"
+  />
+</p>
+<img src="https://github-readme-streak-stats-v2-mauve.vercel.app/?user=anhtrunghieule&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak"/>
+</div>
 
 ---
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anhtrunghieule&theme=react-dark&area=true&hide_border=true)
 <!-- <div align="center">
   <img src="quote.svg" width="100%" alt="Let your result be your loudest voice"/>
 </div> -->
 
 
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=anhtrunghieule&theme=dark&hide_border=true)
-
-</div>
 
 
